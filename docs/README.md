@@ -54,7 +54,7 @@
         <span class="ribbon-outer">
           <span class="ribbon-inner">
             
-              <p>This project by <a href="https://github.com/RecycleIthacasBicycles">RecycleIthacasBicycles</a> can be found on <a href="https://github.com/RecycleIthacasBicycles/site">GitHub!</a></p>
+              <p>All <a href="https://github.com/RecycleIthacasBicycles">RecycleIthacasBicycles code</a> can be found at <a href="https://github.com/RecycleIthacasBicycles/site">the GitHub repository!</a></p>
               
             Licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License.</a><br /><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
             
@@ -62,7 +62,7 @@
           <span class="left-tail"></span>
           <span class="right-tail"></span>
         </span>
-        <p>This <a href="https://pages.github.com">GitHub Page</a> is hosted by GitHub!</p>
+        <p>This page is <a href="https://pages.github.com">hosted on GitHub!</a></p>
         <span class="octocat"></span>
       </footer>
 
