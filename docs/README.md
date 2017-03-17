@@ -62,7 +62,7 @@
           <span class="left-tail"></span>
           <span class="right-tail"></span>
         </span>
-        <p><a href="https://pages.github.com">GitHub Pages</a> is a feauture provideed by GitHub!</p>
+        <p>This <a href="https://pages.github.com">GitHub Page</a> is hosted by GitHub!</p>
         <span class="octocat"></span>
       </footer>
 
