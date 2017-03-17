@@ -27,7 +27,7 @@
         <span class="ribbon-outer">
           <span class="ribbon-inner">
             <h1>Recycle Ithaca's Bicycles</h1>
-            <h2>Experimentation with Github site creation.</h2>
+            <h2>Experimentation with GitHub site creation.</h2>
           </span>
           <span class="left-tail"></span>
           <span class="right-tail"></span>
@@ -61,7 +61,7 @@
           <span class="left-tail"></span>
           <span class="right-tail"></span>
         </span>
-        <p>Generated with <a href="https://pages.github.com">GitHub Pages</a> using Merlot</p>
+        <p><a href="https://pages.github.com">GitHub Pages</a> is a feauture provideed by GitHub!</p>
         <span class="octocat"></span>
       </footer>
 
