@@ -4,12 +4,11 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="viewport" content="width=640">
 
-    <link rel="stylesheet" href="/site/assets/css/style.css?v=78ec7635a6f0c5eded7177deb5a1849bccc51ccd" media="screen">
+    <link rel="stylesheet" href="/site/assets/css/style.css" media="screen">
     <link rel="stylesheet" href="/site/assets/css/mobile.css" media="handheld, only screen and (max-device-width:640px)">
     <link rel="stylesheet" href="/site/assets/css/non-screen.css" media="handheld, only screen and (max-device-width:640px)">
 
     <script type="text/javascript" src="/site/assets/js/modernizr.js"></script>
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script type="text/javascript" src="/site/assets/js/headsmart.min.js"></script>
     <script type="text/javascript">
       $(document).ready(function () {
