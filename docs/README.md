@@ -56,7 +56,7 @@
             
               <p>This project by <a href="https://github.com/RecycleIthacasBicycles">RecycleIthacasBicycles</a> can be found on <a href="https://github.com/RecycleIthacasBicycles/site">GitHub!</a></p>
               
-            Licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a><br /><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">.<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+            Licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License.</a><br /><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
             
           </span>
           <span class="left-tail"></span>
