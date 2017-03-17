@@ -26,7 +26,7 @@
       <header>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
-            <h1>site</h1>
+            <h1>Recycle Ithaca's Bicycles</h1>
             <h2>Experimentation with Github site creation.</h2>
           </span>
           <span class="left-tail"></span>
